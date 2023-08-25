@@ -1,0 +1,3 @@
+C:/Users/kayna/Documents/CLion/Aulas de Manha/ListaCircular/cmake-build-debug/CMakeFiles/ListaCircular.dir
+C:/Users/kayna/Documents/CLion/Aulas de Manha/ListaCircular/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kayna/Documents/CLion/Aulas de Manha/ListaCircular/cmake-build-debug/CMakeFiles/rebuild_cache.dir
